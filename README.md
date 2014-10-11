@@ -1,4 +1,4 @@
-# The Czarrparty Protocol
+# The Czarparty Protocol
 
 ## Summary
 
