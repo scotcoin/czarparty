@@ -28,7 +28,7 @@ destination output. Change outputs (outputs after the last data output) have no
 importance to Czarparty. All data outputs must appear in direct succession.
 
 For identification purposes, every Czarparty transaction’s ‘data’ field is
-prefixed by the string ‘CZARPRTY’, encoded in UTF‐8. This string is long enough
+prefixed by the string ‘CZRPARTY’, encoded in UTF‐8. This string is long enough
 that transactions with outputs containing pseudo‐random data cannot be mistaken
 for containing valid Czarparty transaction data. In testing (i.e. using the
 TESTCOIN Czarparty network on any blockchain), this string is ‘XX’.
